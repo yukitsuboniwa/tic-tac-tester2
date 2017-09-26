@@ -1,0 +1,26 @@
+.container {
+  width: 500px;
+  margin: 0 auto;
+}
+
+.wrapper {
+  width: 600px;
+  display: flex;
+  flex-flow: row wrap;
+}
+
+.box {
+  border: 1px solid red;
+  width: 150px;
+  height: 150px;
+  display: inline-block;
+}
+
+h1, h2, p {
+  display: flex;
+  justify-content: center;
+}
+
+body {
+  
+}
